@@ -3,7 +3,7 @@
 - 👀 I’m passionate about **MERN stack web development** and **Computer Vision with AI**.
 - 🌱 I’m currently diving deeper into **Backend Development** with Node.js, Express, and MongoDB.
 - 💞️ I’m looking to collaborate on open-source projects in **Web Development** or **AI-based applications**.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/vipul-kumar-patel-88561a227) | [Email](vipul20020308@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vipul-kumar-patel-90b1242b1/) | [Email](vipul20020308@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can debug for hours without coffee... but not without snacks! 🍪
 
