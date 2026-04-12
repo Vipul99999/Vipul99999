@@ -92,13 +92,11 @@ I’m a backend-focused engineer with a growing specialization in AI and data-dr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vipul99999&show_icons=true&theme=tokyonight" alt="Vipul's GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul99999&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vipul99999&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vipul99999&theme=tokyonight)
 
 ---
 
