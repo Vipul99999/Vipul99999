@@ -92,9 +92,7 @@ I’m a backend-focused engineer with a growing specialization in AI and data-dr
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vipul99999&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vipul99999&show_icons=true&theme=tokyonight" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vipul99999&theme=tokyonight)
 
