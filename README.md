@@ -1,45 +1,55 @@
-<h1 align="center">Hi 👋, I'm  Vipul Kumar Patel</h1>
-<h3 align="center">Backend Engineer | Scalable Systems | Node.js • PostgreSQL • Redis</h3>
+<h1 align="center">Hi 👋, I'm Vipul Kumar Patel</h1>
+<h3 align="center">Backend Engineer | Scalable Systems | AI & Data Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-I’m a backend-focused engineer passionate about building scalable, high-performance systems and APIs.
+I’m a backend-focused engineer with a growing specialization in AI and data-driven systems. I enjoy building scalable backend architectures and exploring how intelligent systems can enhance real-world applications.
 
-- 🔧 Skilled in **Node.js, PostgreSQL, MongoDB, Redis**
-- ⚙️ Focused on **System Design, API Development & Performance Optimization**
-- 🧠 Experience with **AI Data Workflows (Annotation, Validation, PII, QA)**
-- 🚀 Built production-style projects with caching, authentication, and distributed architecture
-- 📈 Constantly learning and improving in **scalable backend systems**
+- 🔧 Backend: **Node.js, Next.js, PostgreSQL, MongoDB, Redis**
+- ⚙️ Strong in **REST APIs, GraphQL, Authentication (JWT), System Design**
+- 🤖 AI Focus: **Machine Learning fundamentals, Data Annotation & Validation**
+- 🧠 Certified in **Machine Learning, C++, DBMS, Computer Networking** with hands-on project exposure
+- 🔍 Experience working with **PII, sentiment, and intent-based data labeling**
+- 🚀 Built projects **backend systems , Full Stack System**
+- 📈 Currently learning **advanced AI systems & scalable architectures**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### ⚙️ Backend
 - Node.js, Express.js  
 - REST APIs, GraphQL  
-- Authentication (JWT)
+- Authentication (JWT), Oauth2 
 
-**Databases**
+### 🗄️ Databases
 - PostgreSQL  
 - MongoDB  
 - Redis (Caching)
 
-**Frontend**
-- React.js, Next.js  
-- Tailwind CSS
+### 🤖 AI / Data
+- Machine Learning (Basics)  
+- Data Annotation & Validation  
+- OpenCV (Computer Vision)  
+- Python (NumPy, basic ML libraries)
 
-**Languages**
+### 🎨 Frontend
+- React.js, Next.js  
+- Tailwind CSS  
+
+### 💻 Languages
 - JavaScript / TypeScript  
 - Python  
-- C++
+- C++ and C
+- Java (Basics)
 
-**Tools**
+### 🛠️ Tools
 - Git & GitHub  
 - Postman  
 - Docker (Basics)
+- Swagger
 
 ---
 
@@ -50,7 +60,7 @@ I’m a backend-focused engineer passionate about building scalable, high-perfor
 - Implemented **Base62 encoding**
 - Used **Redis caching** for faster redirects
 - Added **rate limiting** for system stability
-- Focused on **low latency & high performance**
+- Focused on **low latency & scalability**
 
 ---
 
@@ -64,8 +74,19 @@ I’m a backend-focused engineer passionate about building scalable, high-perfor
 
 ### 🤖 AI Face Detection Attendance System
 - Real-time face recognition using **OpenCV & Python**  
-- Automated attendance tracking  
-- Integrated backend + frontend system  
+- Automated attendance tracking system  
+- Integrated AI with backend services  
+
+---
+
+## 🧠 AI Learning Journey
+
+- Completed certification in **Machine Learning**
+- Completed certification in **Data Labeling Job Simulation**
+- Currently exploring:
+  - Model evaluation & optimization  
+  - Data pipelines for AI systems  
+  - AI + Backend integration (APIs for ML models)  
 
 ---
 
@@ -84,19 +105,19 @@ I’m a backend-focused engineer passionate about building scalable, high-perfor
 ## 💡 What I Focus On
 
 - Building **scalable backend systems**
+- Integrating **AI into real-world applications**
 - Writing **clean, maintainable code**
 - Optimizing **performance & database queries**
-- Designing **real-world system architectures**
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vipul-kumar-patel-90b1242b1/
-- 📧 Email: your-email@example.com
+- 📧 Email: vipul20020308@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy breaking down complex backend systems and optimizing them for performance 🚀
+I enjoy solving backend scaling problems and exploring how AI can enhance system intelligence 🚀
