@@ -7,13 +7,20 @@
 
 I’m a backend-focused engineer with a growing specialization in AI and data-driven systems. I enjoy building scalable backend architectures and exploring how intelligent systems can enhance real-world applications.
 
-- 🔧 Backend: **Node.js, Next.js, PostgreSQL, MongoDB, Redis**
-- ⚙️ Strong in **REST APIs, GraphQL, Authentication (JWT), System Design**
-- 🤖 AI Focus: **Machine Learning fundamentals, Data Annotation & Validation**
-- 🧠 Certified in **Machine Learning, C++, DBMS, Computer Networking** with hands-on project exposure
-- 🔍 Experience working with **PII, sentiment, and intent-based data labeling**
-- 🚀 Built projects **backend systems , Full Stack System**
-- 📈 Currently learning **advanced AI systems & scalable architectures**
+🔧 Backend: Node.js, Next.js, PostgreSQL, MongoDB, Redis  
+⚙️ Strong in REST APIs, GraphQL, Authentication (JWT), and System Design  
+🗄️ Database: Query optimization, indexing, and efficient schema design  
+
+🤖 AI & Data Focus:
+- Strong foundation in Machine Learning concepts  
+- Familiar with data annotation, validation, and quality workflows  
+- Exposure to AI-driven applications through computer vision projects
+- Familiar with modern AI trends including LLM-based applications (learning in progress)
+
+🧠 Certified in Machine Learning, DBMS, Computer Networking, and C++  
+
+🚀 Built multiple backend and full-stack applications with a focus on scalability and performance  
+📈 Actively building towards AI-integrated backend systems and data-driven applications  
 
 ---
 
