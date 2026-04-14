@@ -1,63 +1,63 @@
-<h1 align="center">Hi 👋, I'm Vipul Kumar Patel</h1>
-<h3 align="center">Backend Engineer | Scalable Systems | AI & Data Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Vipul Kumar Patel
+### Fullstack Engineer | Specialized in Backend & Scalable Systems | AI Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vipul-kumar-patel-90b1242b1/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipul20020308@gmail.com)
+
+---
+
+> **Passionate about building high-performance server-side architectures and integrating intelligent AI solutions into modern web applications.**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I’m a backend-focused engineer with a growing specialization in AI and data-driven systems. I enjoy building scalable backend architectures and exploring how intelligent systems can enhance real-world applications.
+I am a **Fullstack Engineer** with a deep-rooted passion for **Backend Architecture** and **Scalable Systems**. My expertise lies in building robust server-side logic while crafting seamless, data-driven user experiences. 
 
-🔧 Backend: Node.js, Next.js, PostgreSQL, MongoDB, Redis  
-⚙️ Strong in REST APIs, GraphQL, Authentication (JWT), and System Design  
-🗄️ Database: Query optimization, indexing, and efficient schema design  
+Currently, I am bridging the gap between traditional web engineering and **Artificial Intelligence**, focusing on how LLMs and computer vision can be integrated into high-performance applications.
 
-🤖 AI & Data Focus:
-- Strong foundation in Machine Learning concepts  
-- Familiar with data annotation, validation, and quality workflows  
-- Exposure to AI-driven applications through computer vision projects
-- Familiar with modern AI trends including LLM-based applications (learning in progress)
-
-🧠 Certified in Machine Learning, DBMS, Computer Networking, and C++  
-
-🚀 Built multiple backend and full-stack applications with a focus on scalability and performance  
-📈 Actively building towards AI-integrated backend systems and data-driven applications  
+* **🏗️ System Design:** Architecting scalable backends using Node.js, specializing in database optimization and caching strategies.
+* **🌐 Fullstack Perspective:** Building responsive, state-managed frontends with Next.js and Zustand to deliver end-to-end solutions.
+* **🤖 AI Integration:** Implementing intelligent features using OpenCV and exploring LLM orchestration.
+* **📈 Goal-Oriented:** Focused on writing clean, maintainable code and optimizing system latency for better user performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
-- Node.js, Express.js  
-- REST APIs, GraphQL  
-- Authentication (JWT), Oauth2 
+### ⚙️ Backend & System Design
+- **Runtime & Frameworks:** Node.js, Express.js
+- **Architecture:** REST APIs, GraphQL, Microservices basics
+- **Security:** JWT Authentication, OAuth2, Bcrypt
 
-### 🗄️ Databases
-- PostgreSQL  
-- MongoDB  
-- Redis (Caching)
+### 🗄️ Databases & Caching
+- **Relational:** PostgreSQL
+- **NoSQL:** MongoDB
+- **Performance:** Redis (Caching & Rate Limiting)
 
-### 🤖 AI / Data
-- Machine Learning (Basics)  
-- Data Annotation & Validation  
-- OpenCV (Computer Vision)  
-- Python (NumPy, basic ML libraries)
+### 🎨 Frontend (Fullstack Capabilities)
+- **Frameworks:** React.js, Next.js  
+- **Styling:** Tailwind CSS, Material UI
+- **State & Data:** Zustand, TanStack Query (React Query)
 
-### 🎨 Frontend
-- React.js, Next.js  
-- Tailwind CSS  
+### 🤖 AI & Data Engineering
+- **Computer Vision:** OpenCV
+- **Libraries:** Python (NumPy, Pandas, Scikit-learn)
+- **Workflows:** Data Annotation, Validation, and ML Foundations
 
 ### 💻 Languages
-- JavaScript / TypeScript  
-- Python  
-- C++ and C
-- Java (Basics)
+- **Primary:** JavaScript, TypeScript, Python
+- **Core:** C++, C
+- **Basics:** Java
 
-### 🛠️ Tools
-- Git & GitHub  
-- Postman  
-- Docker (Basics)
-- Swagger
-
+### 🔧 DevOps & Tools
+- **Deployment:** Docker
+- **Testing/API:** Postman, Swagger
+- **Version Control:** Git & GitHub
 ---
 
 ## 🔥 Featured Projects
