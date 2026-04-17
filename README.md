@@ -101,8 +101,7 @@ Currently, I am bridging the gap between traditional web engineering and **Artif
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vipul99999&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vipul99999&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul99999&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 💡 What I Focus On
