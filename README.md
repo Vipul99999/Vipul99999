@@ -79,10 +79,11 @@ Currently, I am bridging the gap between traditional web engineering and **Artif
 
 ---
 
-### 🤖 AI Face Detection Attendance System
-- Real-time face recognition using **OpenCV & Python**  
-- Automated attendance tracking system  
-- Integrated AI with backend services  
+### 🤖 AI Face Detection Attendance System(FaceCheck)
+-Built real-time face recognition system using **ArcFace embeddings (InsightFace)**
+-Designed **FastAPI** backend with **SQLite** for scalable attendance tracking
+-Implemented **anti-spoofing** checks to prevent fraudulent entries
+-Developed **React** dashboard for real-time monitoring and analytics
 
 ---
 
