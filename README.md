@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Vipul Kumar Patel
-### Fullstack Engineer | Specialized in Backend & Scalable Systems | AI Enthusiast
+### Software Engineer | Building Scalable Systems & AI-Powered Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-kumar-patel-90b1242b1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipul20020308@gmail.com)
